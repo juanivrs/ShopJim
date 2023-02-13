@@ -1,0 +1,14 @@
+com\mycompany\shopjim\controller\TiendaController.class
+com\mycompany\shopjim\JakartaRestConfiguration.class
+com\mycompany\shopjim\model\Tienda.class
+com\mycompany\shopjim\views\PropiedadEditView.class
+com\mycompany\shopjim\controller\CategoriaController.class
+com\mycompany\shopjim\resources\JakartaEE91Resource.class
+com\mycompany\shopjim\controller\IController.class
+com\mycompany\shopjim\controller\PromocionController.class
+com\mycompany\shopjim\controller\repository\IRepository.class
+com\mycompany\shopjim\controller\repository\MemoryRepository.class
+com\mycompany\shopjim\model\ICopyable.class
+com\mycompany\shopjim\controller\AbstractController.class
+com\mycompany\shopjim\model\Categoria.class
+com\mycompany\shopjim\model\Promocion.class
